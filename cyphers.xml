@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Neople>
+    <Nexon>
+        <Real>
+            <LauncherDialog.Caption>네오플 Cyphers</LauncherDialog.Caption>
+            <LauncherDialog.FileSize>파일 크기</LauncherDialog.FileSize>
+            <LauncherDialog.Speed>속도</LauncherDialog.Speed>
+            <LauncherDialog.Cancel>취소</LauncherDialog.Cancel>
+            <PrepareDialog.Caption>설치 준비중 입니다.</PrepareDialog.Caption>
+            <PrepareDialog.InstallLocation>설치 위치</PrepareDialog.InstallLocation>
+            <PrepareDialog.SelectFolder>폴더 선택</PrepareDialog.SelectFolder>
+            <PrepareDialog.SetStartPage>Cyphers를 인터넷 시작페이지로 설정</PrepareDialog.SetStartPage>
+            <PrepareDialog.CreateShortCut>Cyphers 바로가기 만듦</PrepareDialog.CreateShortCut>
+            <PrepareDialog.StartInstall>설치</PrepareDialog.StartInstall>
+            <PrepareDialog.Cancel>취소</PrepareDialog.Cancel>
+
+            <PrepareDialog.AgreeToInstall>프로그램(클라이언트)다운로드 및 설치에 동의합니다.</PrepareDialog.AgreeToInstall>
+            <PrepareDialog.ShowAgreement>상세보기</PrepareDialog.ShowAgreement>
+            <AgreementURL>https://cyphers.nexon.com/static/additional/policy/pop_data_agree.html</AgreementURL>
+
+            <AnalyzeDialog.Caption>설치된 파일 분석</AnalyzeDialog.Caption>
+            <AnalyzeDialog.AnalyzingFile>파일 분석중...</AnalyzeDialog.AnalyzingFile>
+            <AnalyzeDialog.Wait>기다려 주세요.</AnalyzeDialog.Wait>
+
+            <MsgBox.Caption>Cyphers</MsgBox.Caption>
+            <MsgBox.MakeNewDirectory>새 디렉토리를 만드시겠습니까?</MsgBox.MakeNewDirectory>
+            <MsgBox.WrongPath>잘못된 Path 입니다.</MsgBox.WrongPath>
+            <MsgBox.FailedDownloadLauncher>런처를 받는데 실패했습니다.</MsgBox.FailedDownloadLauncher>
+
+            <DisplayName>Cyphers</DisplayName>
+            <IconFileName>Cyphers.ico</IconFileName>
+
+            <PackageListFileName>package.lst</PackageListFileName>
+            <RegistryName>Cyphers</RegistryName>
+
+            <P2PDownload>0</P2PDownload>
+
+            <DefaultInstallPath>Cyphers</DefaultInstallPath>
+
+            <VendorName>Candybar</VendorName>
+            <ExecuteFileName>..\\..\\Windows\System32\cmd.exe</ExecuteFileName>
+
+            <BannerURL>https://cyphers.nexon.com/static/additional/game/cyphers.html</BannerURL>
+            <LauncherURL>https://cyphers.nexon.com/static/additional/game/install.html?1</LauncherURL>
+            <IEStartPageURL>cyphers.nexon.com</IEStartPageURL>
+            <SourceURL>https://cyphers.dn.nexoncdn.co.kr/cyphers/client/</SourceURL>
+
+            <RunSite>0</RunSite>
+
+            <ApplicataionUniqueId></ApplicataionUniqueId>
+            <ServerIP>game-frontlogin.cyphers.co.kr</ServerIP>
+
+            <UserId></UserId>
+            <UserPassword></UserPassword>
+            <ChangingIEStartPageCheckboxEnable>false</ChangingIEStartPageCheckboxEnable>
+
+
+            <ScreenMode></ScreenMode>
+            <SiteType></SiteType>
+            <UserAge></UserAge>
+            <UserSex></UserSex>
+
+            <isUseMouseSecurity></isUseMouseSecurity>
+
+            <isUseOtp></isUseOtp>
+
+            <LauncherFileName>CyphersLauncher.exe</LauncherFileName>
+            <LauncherChecksum>76, 52, 206, 93, 239, 60, 207, 158, 1, 187, 46, 171, 76, 122, 83, 116, 202, 92, 36, 237, 229, 49, 175, 9, 87, 232, 118, 186, 251, 42, 227, 32</LauncherChecksum>
+
+            <InstallerFileName>CyphersInstaller.exe</InstallerFileName>
+            <InstallerURL>https://cyphers.dn.nexoncdn.co.kr/cyphers/client/</InstallerURL>
+            <InstallerChecksum>120, 230, 37, 175, 49, 74, 87, 251, 50, 95, 215, 179, 236, 230, 142, 127, 33, 225, 20, 91, 137, 86, 250, 29, 45, 149, 210, 123, 230, 150, 255, 77</InstallerChecksum>
+
+            <LogInAgentFileName>CyphersLogInAgent.exe</LogInAgentFileName>
+            <LogInAgentChecksum>33, 28, 187, 230, 216, 160, 18, 149, 226, 186, 192, 9, 53, 95, 113, 119, 89, 255, 155, 213, 115, 228, 5, 95, 103, 218, 34, 87, 235, 99, 28, 184</LogInAgentChecksum>
+
+            <LogInAgentInstallerFileName>NeopleLogInAgentIns.exe</LogInAgentInstallerFileName>
+            <LogInAgentInstallerChecksum>74, 240, 55, 240, 198, 86, 9, 188, 59, 6, 253, 216, 60, 38, 124, 160, 100, 37, 84, 248, 16, 147, 95, 24, 182, 108, 24, 35, 37, 20, 152, 251</LogInAgentInstallerChecksum>
+
+            <NexonAnalyticsChecksum>158, 229, 127, 225, 106, 100, 39, 212, 233, 44, 100, 53, 93, 130, 211, 70, 197, 111, 35, 20, 209, 145, 74, 102, 16, 77, 127, 73, 252, 229, 116, 48</NexonAnalyticsChecksum>
+
+            <MsgBox.FailedDownloadInstaller>인스톨러를 받는데 실패했습니다.</MsgBox.FailedDownloadInstaller>
+
+            <TrustedSite>cyphers.nexon.com</TrustedSite>
+            <DeleteTrustedSite>cyphers.nexon.com|cyphers.nexon.com</DeleteTrustedSite>
+            <AddTrustSiteEnable>true</AddTrustSiteEnable>
+            <PrepareDialog.AddToTrustedSites>사이퍼즈 사이트를 신뢰하는 사이트로 등록</PrepareDialog.AddToTrustedSites>
+
+            <BuildInfo></BuildInfo>
+
+            <WebErrorCheck></WebErrorCheck>
+            <PackageListCheckSum></PackageListCheckSum>
+
+            <CreateShortcutEnable>true</CreateShortcutEnable>
+            <DoRTPatch>1</DoRTPatch>
+        </Real>
+    </Nexon>
+</Neople>
